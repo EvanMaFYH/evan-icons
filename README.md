@@ -12,7 +12,7 @@ type值可以从[Font Awesome](http://www.fontawesome.com.cn/faicons/)网站获�
 | size | 图标大小 | string/number | - | 16 |
 | color | 图标颜色 | string | - | #333333
 
-### evan-form events
+### evan-icons events
 | 事件名   | 说明       | 回调参数     |   
 | :------- | :--------- | :-------|
 | click | 点击图标的回调 | - |
